@@ -1,1 +1,11 @@
-this is an example
+10 Example Usages of Sentiment Analysis
+1. Brand Monitoring
+2. Improving Your Customer Support
+3. Tracking Your Employees’ Feedback
+4. Providing Better Product Analytics
+5. Monitoring Market Research
+6. Keeping an Eye on Your Competition
+7. Tracking User Generated Content
+8. Uncovering Brand Influencers
+9. Social Media Monitoring
+10. Managing a Crisis Better
